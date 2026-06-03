@@ -1,5 +1,5 @@
 body {
-  background-color: beige;
+  background-color: bisque;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -19,6 +19,11 @@ header {
     flex-grow: 1;
     font-weight: bold;
     font-size: 3rem;
+  }
+
+  nav {
+    display: flex;
+    gap: 1rem;
   }
 
   a {
@@ -85,7 +90,7 @@ main {
     }
 
     .testimonial {
-      background-color: blanchedalmond;
+      background-color: lemonchiffon;
       color: black;
       blockquote {
         margin-top: 0;
