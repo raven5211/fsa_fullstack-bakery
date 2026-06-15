@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/fullstack-bakery.git)
+
+---
+
 # Fullstack Bakery
 
 ![](images/example.png)
