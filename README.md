@@ -2,6 +2,8 @@
 
 [source repo](https://github.com/FullstackAcademy/fullstack-bakery.git)
 
+[website](https://fullstack-bakery-raven5211.netlify.app)
+
 ---
 
 # Fullstack Bakery
